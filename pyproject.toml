@@ -13,5 +13,7 @@ dependencies = [
     "langchain-openai>=1.1.6",
     "langchain-pinecone>=0.2.13",
     "langgraph>=1.0.5",
+    "langgraph-checkpoint-sqlite>=3.0.3",
     "sentence-transformers>=5.2.0",
+    "streamlit>=1.54.0",
 ]
